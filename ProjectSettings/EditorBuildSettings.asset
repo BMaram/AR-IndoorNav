@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Interface/scenes/1.unity
+    guid: 6d6c8efda908c0349986d85fd6142c45
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 5004d8e8003c343a6898838c16a03a76
+  - enabled: 1
+    path: Assets/Scenes/CreateMap.unity
+    guid: c1577ca0f3e4c4bbcaaa7c8107ec5dfc
+  - enabled: 1
+    path: Assets/Scenes/ReadMap.unity
+    guid: 7ff821bf32bc1492992d7836af8c28f1
+  - enabled: 1
+    path: Assets/Interface/scenes/T1.unity
+    guid: 7be6df8cfec719147bd62289021d70d6
+  - enabled: 1
+    path: Assets/Interface/scenes/T2.unity
+    guid: 31cf305dfc491f04984debff6df2faff
+  - enabled: 1
+    path: Assets/Interface/scenes/T3.unity
+    guid: 6613475fdf545ff4eab9c9bf8b150278
+  - enabled: 1
+    path: Assets/Interface/scenes/Qulity.unity
+    guid: f589398f33c4a814ca2d0c4697ca4917
+  - enabled: 1
+    path: Assets/Interface/scenes/menue.unity
+    guid: ed7ab1e696819ad4cafceb9613aff49e
+  - enabled: 1
+    path: Assets/Interface/scenes/mangment dep.unity
+    guid: cd305a190ec0c2a4e8e7934551032406
+  - enabled: 1
+    path: Assets/Interface/scenes/learninng systems.unity
+    guid: 4779a851d25ac8d45b4a0f848dc48549
+  - enabled: 1
+    path: Assets/Interface/scenes/E - Learning Programs.unity
+    guid: e252c36d9116d3446b591246db1db2b7
+  - enabled: 1
+    path: Assets/Interface/scenes/Distance Learning Programs.unity
+    guid: 8e9ca48d3e4593b48bb313bec3de41a0
+  m_configObjects: {}
